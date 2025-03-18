@@ -11,8 +11,8 @@
     "registry": "https://registry.npmjs.org/"
   },
   "peerDependencies": {
-    "@angular/common": "^16.1.0",
-    "@angular/core": "^16.1.0",
+  "@angular/common": "^16.1.0 || ^16.2.12",
+  "@angular/core": "^16.1.0 || ^16.2.12",
     "primeng": "^16.0.0"
   },
   "dependencies": {
