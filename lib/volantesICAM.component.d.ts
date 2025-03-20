@@ -8,5 +8,5 @@ export declare class VolantesICAMComponent implements OnInit {
     items: MenuItem[];
     ngOnInit(): void;
     static ɵfac: i0.ɵɵFactoryDeclaration<VolantesICAMComponent, never>;
-    static ɵcmp: i0.ɵɵComponentDeclaration<VolantesICAMComponent, "ng-component", never, {}, {}, never, ["app-header"], false, never>;
+    static ɵcmp: i0.ɵɵComponentDeclaration<VolantesICAMComponent, "lib-volantes-icam", never, {}, {}, never, ["app-header"], false, never>;
 }
