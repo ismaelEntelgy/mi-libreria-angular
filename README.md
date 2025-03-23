@@ -1,23 +1,23 @@
-# Volantesicam
+# VolantesICAM
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
 ## Code scaffolding
 
-Run `ng generate component component-name --project volantesicam` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project volantesicam`.
-> Note: Don't forget to add `--project volantesicam` or else it will be added to the default project in your `angular.json` file. 
+Run `ng generate component component-name --project volantesICAM` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project volantesICAM`.
+> Note: Don't forget to add `--project volantesICAM` or else it will be added to the default project in your `angular.json` file. 
 
 ## Build
 
-Run `ng build volantesicam` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run `ng build volantesICAM` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Publishing
 
-After building your library with `ng build volantesicam`, go to the dist folder `cd dist/volantesicam` and run `npm publish`.
+After building your library with `ng build volantesICAM`, go to the dist folder `cd dist/volantes-icam` and run `npm publish`.
 
 ## Running unit tests
 
-Run `ng test volantesicam` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test volantesICAM` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Further help
 

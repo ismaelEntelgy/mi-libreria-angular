@@ -1,5 +1,12 @@
+import { OnInit } from '@angular/core';
+import { MegaMenuItem, MenuItem } from 'primeng/api';
 import * as i0 from "@angular/core";
-export declare class VolantesicamComponent {
-    static ɵfac: i0.ɵɵFactoryDeclaration<VolantesicamComponent, never>;
-    static ɵcmp: i0.ɵɵComponentDeclaration<VolantesicamComponent, "lib-volantesicam", never, {}, {}, never, never, false, never>;
+export declare class VolantesICAMComponent implements OnInit {
+    plainMenuItems: MenuItem[];
+    megaMenuItemsH: MegaMenuItem[];
+    routeItems: MenuItem[];
+    items: MenuItem[];
+    ngOnInit(): void;
+    static ɵfac: i0.ɵɵFactoryDeclaration<VolantesICAMComponent, never>;
+    static ɵcmp: i0.ɵɵComponentDeclaration<VolantesICAMComponent, "volantes-icam", never, {}, {}, never, never, false, never>;
 }
